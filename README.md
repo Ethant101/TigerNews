@@ -82,3 +82,4 @@ See [CONTRIBUTING.md](https://github.com/ionic-team/ionic-conference-app/blob/ma
 1. Run `ionic cordova run ios --prod`
 
 hello world
+this is a test
